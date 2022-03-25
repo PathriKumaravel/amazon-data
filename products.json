@@ -1022,74 +1022,62 @@
     {
         "model_id" : 18,
         "model_name" : "Jeans",
-        "product_name" : "",
+        "product_name" : "Slim Fit",
         "product_id" : 86,
-        "content" : "",
-        "average_rating": 4.3,
-        "rating_text": "Very Good",
-        "cost": "",
-        "product_img" : ""
+        "content" : "Men's Slim Fit Jeans(White)",
+        "average_rating": 3.5,
+        "rating_text": "Good",
+        "cost": "₹589 (80% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61KZNB54U3L._UL1500_.jpg"
     },
 
     {
         "model_id" : 18,
         "model_name" : "Jeans",
-        "product_name" : "",
+        "product_name" : "Stretchable Jeans",
         "product_id" : 87,
-        "content" : "",
-        "average_rating": 4.3,
+        "content" : "Men's Slim Fit Stretchable Jeans",
+        "average_rating": 3.7,
         "rating_text": "Very Good",
-        "cost": "",
-        "product_img" : ""
+        "cost": "₹639 (71% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61u7ZNKqnVL._UL1500_.jpg"
     },
     
     {
         "model_id" : 18,
         "model_name" : "Jeans",
-        "product_name" : "",
+        "product_name" : "Jogger Jeans",
         "product_id" : 88,
-        "content" : "",
-        "average_rating": 4.3,
-        "rating_text": "Very Good",
-        "cost": "",
-        "product_img" : ""
+        "content" : "Urbano Plus Men's Grey Regular Fit Jogger Jeans Stretch",
+        "average_rating": 3.9,
+        "rating_text": "Good",
+        "cost": "₹829.00",
+        "product_img" : "https://m.media-amazon.com/images/I/614DDzC4GaL._UL1500_.jpg"
     },
 
     {
         "model_id" : 18,
         "model_name" : "Jeans",
-        "product_name" : "",
+        "product_name" : "Slim Jeans",
         "product_id" : 89,
-        "content" : "",
-        "average_rating": 4.3,
-        "rating_text": "Very Good",
-        "cost": "",
-        "product_img" : ""
+        "content" : "Amazon Brand - House & Shields Men's Slim Jeans",
+        "average_rating": 3.9,
+        "rating_text": "Good",
+        "cost": "₹749 (73% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81JfgEBtb1L._UL1500_.jpg"
     },
 
     {
         "model_id" : 18,
         "model_name" : "Jeans",
-        "product_name" : "",
+        "product_name" : "Relaxed Jeans",
         "product_id" : 90,
-        "content" : "",
-        "average_rating": 4.3,
-        "rating_text": "Very Good",
-        "cost": "",
-        "product_img" : ""
-    },
-
-    {
-        "model_id" : 18,
-        "model_name" : "Jeans",
-        "product_name" : "",
-        "product_id" : 91,
-        "content" : "",
-        "average_rating": 4.3,
-        "rating_text": "Very Good",
-        "cost": "",
-        "product_img" : ""
-    },
+        "content" : "Ben Martin Men's Relaxed Jeans",
+        "average_rating": 3.9,
+        "rating_text": "Good",
+        "cost": "₹589 (76% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/616xchp1ECL._UL1440_.jpg"
+    }
 
 
 ]
