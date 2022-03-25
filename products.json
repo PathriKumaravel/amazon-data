@@ -1,0 +1,1095 @@
+[
+    {
+        "model_id" : 1,
+        "model_name" : "Oppo",
+        "product_name" : "OPPO A74 5G",
+        "product_id" : 1,
+        "content" : "OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹16,990 (19% off)",
+        "product_img" : "https://i.ibb.co/syFfZqS/oppo-a74.jpg"
+    },
+
+    {
+        "model_id" : 1,
+        "model_name" : "Oppo",
+        "product_name" : "OPPO A15s",
+        "product_id" : 2,
+        "content" : "OPPO A15s (Fancy White, 4GB, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.0,
+        "rating_text": "Good",
+        "cost": "₹11,990 (20% off)",
+        "product_img" : "https://i.ibb.co/ZGkmtyq/oppo-a15s.jpg"
+    },
+
+    {
+        "model_id" : 1,
+        "model_name" : "Oppo",
+        "product_name" : "OPPO A31",
+        "product_id" : 3,
+        "content" : "OPPO A31 (Fantasy White, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.0,
+        "rating_text": "Good",
+        "cost": "₹12,990 (19% off)",
+        "product_img" : "https://i.ibb.co/CngSHvL/oppo-a31.jpg"
+    },
+
+    {
+        "model_id" : 1,
+        "model_name" : "Oppo",
+        "product_name" : "Oppo A54",
+        "product_id" : 4,
+        "content" : "Oppo A54 (Starry Blue, 4GB RAM, 64GB Storage) with No Cost EMI & Additional Exchange Offers",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹12,490 (17% off)",
+        "product_img" : "https://i.ibb.co/6w2yXyL/oppo-a54.jpg"
+    },
+
+    {
+        "model_id" : 1,
+        "model_name" : "Oppo",
+        "product_name" : "OPPO F19 Pro",
+        "product_id" : 5,
+        "content" : "OPPO F19 Pro (Crystal Silver, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.0,
+        "rating_text": "Good",
+        "cost": "₹21,990 (8% off)",
+        "product_img" : "https://i.ibb.co/Drr3P3W/oppo-f19.jpg"
+    },
+
+    {
+        "model_id" : 2,
+        "model_name" : "Vivo",
+        "product_name" : "Vivo Y21",
+        "product_id" : 6,
+        "content" : "Vivo Y21 (Diamond Glow, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹13,990 (22% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/51GkJLzb9NL._SL1200_.jpg"
+    },
+
+    {
+        "model_id" : 2,
+        "model_name" : "Vivo",
+        "product_name" : "Vivo Y33T",
+        "product_id" : 7,
+        "content" : "Vivo Y33T (Mirror Black, 8GB RAM, 128GB ROM) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹18,990 (17% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/519IxSDFGWL._SL1198_.jpg"
+    },
+
+    {
+        "model_id" : 2,
+        "model_name" : "Vivo",
+        "product_name" : "Vivo V21 5G",
+        "product_id" : 8,
+        "content" : "Vivo V21 5G (Arctic White, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.0,
+        "rating_text": "Good",
+        "cost": "₹27,990 (15% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61ShleYhcBS._SL1200_.jpg"
+    },
+
+    {
+        "model_id" : 2,
+        "model_name" : "Vivo",
+        "product_name" : "Vivo Y33s",
+        "product_id" : 9,
+        "content" : "Vivo Y33s (Middday Dream, 8GB RAM, 128GB Stoarge) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.0,
+        "rating_text": "Good",
+        "cost": "₹18,989 (14% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/419B1alPH9L.jpg"
+    },
+
+    {
+        "model_id" : 2,
+        "model_name" : "Vivo",
+        "product_name" : "Vivo V21e 5G",
+        "product_id" : 10,
+        "content" : "Vivo V21e 5G (Sunset Jazz, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹23,990 (14% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61HuJbCHhCS._SL1200_.jpg"
+    },
+
+    {
+        "model_id" : 3,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus Nord 2 5G",
+        "product_id" : 11,
+        "content" : "OnePlus Nord 2 5G (Gray Sierra, 8GB RAM, 128GB Storage)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹29,999",
+        "product_img" : "https://m.media-amazon.com/images/I/71KVeQql77S._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 3,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus Nord CE 2 5G",
+        "product_id" : 12,
+        "content" : "OnePlus Nord CE 2 5G (Gray Mirror, 8GB RAM, 128GB Storage)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹24,999",
+        "product_img" : "https://m.media-amazon.com/images/I/619n6kxuGsL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 3,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus 9 5G",
+        "product_id" : 13,
+        "content" : "OnePlus 9 5G (Astral Black, 12GB RAM, 256GB Storage)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹49,999 (9% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61urU8k2lFL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 3,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus 9RT 5G",
+        "product_id" : 14,
+        "content" : "OnePlus 9RT 5G (Nano Silver, 12GB RAM, 256GB Storage)+Alexa hands-free capable",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹46,999",
+        "product_img" : "https://m.media-amazon.com/images/I/61NC3RS4RXL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 3,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus 9R 5G",
+        "product_id" : 15,
+        "content" : "OnePlus 9R 5G (Carbon Black, 12GB RAM, 256 GB Storage)",
+        "average_rating": 4.4,
+        "rating_text": "Very Good",
+        "cost": "₹37,999 (14% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61PDbUd1VaL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 4,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung Galaxy M12",
+        "product_id" : 16,
+        "content" : "Samsung Galaxy M12 (Blue,4GB RAM, 64GB Storage) 6000 mAh with 8nm Processor | True 48 MP Quad Camera | 90Hz Refresh Rate",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹10,499 (19% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71r69Y7BSeL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 4,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung Galaxy M21 2021 Edition",
+        "product_id" : 17,
+        "content" : "Samsung Galaxy M21 2021 Edition (Arctic Blue, 4GB RAM, 64GB Storage) | FHD+ sAMOLED | 6 Months Free Screen Replacement for Prime (SM-M215GLBDINS)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹12,999 (13% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/811lrGbXwIL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 4,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung Galaxy M32 5G",
+        "product_id" : 18,
+        "content" : "Samsung Galaxy M32 5G (Sky Blue, 8GB RAM, 128GB Storage)",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹18,999 (27% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71os5DRhuSL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 4,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung Galaxy M52 5G",
+        "product_id" : 19,
+        "content" : "Samsung Galaxy M52 5G (ICY Blue, 6GB RAM, 128GB Storage) Latest Snapdragon 778G 5G | sAMOLED 120Hz Display",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹24,999 (29% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81-tqKsrTuL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 4,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung Galaxy A52s 5G",
+        "product_id" : 20,
+        "content" : "Samsung Galaxy A52s 5G (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹30,999 (21% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/91zjIiEiPQL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 5,
+        "model_name" : "Xiaomi",
+        "product_name" : "MI Redmi Note 5 Pro",
+        "product_id" : 21,
+        "content" : "MI Redmi Note 5 Pro (Gold, 4GB RAM, 64GB Storage)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹13,490 (16% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/41hZTUzp0uL.jpg"
+    },
+
+    {
+        "model_id" : 5,
+        "model_name" : "Xiaomi",
+        "product_name" : "Mi Redmi 8A",
+        "product_id" : 22,
+        "content" : "Mi Redmi 8A Phone (Sunset Red, 2GB RAM, 32GB Storage)",
+        "average_rating": 3.9,
+        "rating_text": "Good",
+        "cost": "₹7,990",
+        "product_img" : "https://m.media-amazon.com/images/I/619YSjAqtIL._SL1000_.jpg"
+    },
+
+    {
+        "model_id" : 5,
+        "model_name" : "Xiaomi",
+        "product_name" : "Mi 11X 5G",
+        "product_id" : 23,
+        "content" : "Mi 11X 5G (Cosmic Black 6GB RAM 128GB ROM) | SD 870 | DisplayMate A+ rated E4 AMOLED | Upto 18 Months No Cost EMI | Extra offers on Exchange",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹27,999 (18% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71VQXjN6R7S._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 5,
+        "model_name" : "Xiaomi",
+        "product_name" : "Mi Xiaomi Max",
+        "product_id" : 24,
+        "content" : "Mi Xiaomi Max (Gold, 32GB)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹8,490 (43% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81GiLcubFhL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 5,
+        "model_name" : "Xiaomi",
+        "product_name" : "Mi Mix 2",
+        "product_id" : 25,
+        "content" : "(Renewed) Mi Mix 2 (Black)",
+        "average_rating": 3.5,
+        "rating_text": "Good",
+        "cost": "₹12,999 (56% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/51iv339qvkL.jpg"
+    },
+
+    {
+        "model_id" : 6,
+        "model_name" : "HP",
+        "product_name" : "HP 15",
+        "product_id" : 26,
+        "content" : "HP 15 11th Gen Intel Core i5 Processor 15.6 inches FHD Laptop (8GB/512GB SSD +32GB Intel Optane/Windows 10 Home/MS Office/Jet Black/1.69 Kg), 15s-fq2071TU",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹61,680 (13% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71fvR6NCIFL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 6,
+        "model_name" : "HP",
+        "product_name" : "HP 15 AMD Ryzen 3",
+        "product_id" : 27,
+        "content" : "HP 15 AMD Ryzen 3 3250U 15.6 inches FHD Thin and Light Laptop (8GB RAM/256GB SSD /Windows 11 Ready /Radeon Graphics/MS Office/1.69 kg), 15s-gy0501AU",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹38,990 (15% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81EfoHgMEDL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 6,
+        "model_name" : "HP",
+        "product_name" : "HP 15s 11th Gen Intel Core i5",
+        "product_id" : 28,
+        "content" : "HP 15s 11th Gen Intel Core i5 15.6 inches FHD Anti-Glare Display Laptop (8GB RAM/512GB SSD Micro-Edge/Iris Xe Graphics/Backlit Keyboard/Windows 11/Alexa/Dual Speakers/MS Office",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹54,490 (22% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61qkg85MG4L._SL1200_.jpg"
+    },
+
+    {
+        "model_id" : 6,
+        "model_name" : "HP",
+        "product_name" : "HP 247 G8 Laptop",
+        "product_id" : 29,
+        "content" : "HP 247 G8 Laptop (Athlon P-3045B HD/ 14 Inch. HD (35.56 cms) /8GB RAM DDR4 /1TB HDD / W11 SL)One Year Warranty, Black, 67U77PA)",
+        "average_rating": 4.5,
+        "rating_text": "Excellent",
+        "cost": "₹31,999 (26% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71Ff0Ap49HS._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 6,
+        "model_name" : "HP",
+        "product_name" : "HP Chromebook 14",
+        "product_id" : 30,
+        "content" : "HP Chromebook 14 Intel Celeron N4020-4GB SDRAM/64GB eMMC + 256GB Expandable Storage 14inch(35.6 cm) Thin & Light Touchscreen Laptop (Chrome OS/B&O/Google Assistant/BL Keyboard",
+        "average_rating": 3.8,
+        "rating_text": "Good",
+        "cost": "₹26,470 (11% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/712mTIAARnL._SL1200_.jpg"
+    },
+
+    {
+        "model_id" : 7,
+        "model_name" : "Dell",
+        "product_name" : "Dell 15 (2021) R7-5700U",
+        "product_id" : 31,
+        "content" : "Dell 15 (2021) R7-5700U, 16GB, 512Gb SSD, Win 11 + MS Office'21, AMD Vega Graphics, 15.6 Inch. (39.62 cms) FHD Display, Platinum Silver Color, FPR + Backlit KB (Inspiron 5515, D560726WIN9S)",
+        "average_rating": 4.7,
+        "rating_text": "Excellent",
+        "cost": "₹73,650 (24% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/51fitILL0+L._SL1000_.jpg"
+    },
+
+    {
+        "model_id" : 7,
+        "model_name" : "Dell",
+        "product_name" : "Dell 15 (2021) Athlon Silver 3050U",
+        "product_id" : 32,
+        "content" : "Dell 15 (2021) Athlon Silver 3050U, 4GB, 256GB SSD, Win 11 + MS Office'21, AMD Vega Graphics, , 15.6 Inch. (39.62 cms) HD Display, Platinum Silver Color (Inspiron 3515, D560705WIN9S)",
+        "average_rating": 4.6,
+        "rating_text": "Excellent",
+        "cost": "₹37,999 (6% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/611fjdipEeL._SL1280_.jpg"
+    },
+
+    {
+        "model_id" : 7,
+        "model_name" : "Dell",
+        "product_name" : "Dell 15 (2021) AMD Ryzen 3-3250U",
+        "product_id" : 33,
+        "content" : "Dell 15 (2021) AMD Ryzen 3-3250U 15.6 inches FHD Display Laptop, 8GB, 256GB SSD, Windows 11 + MS Office'21, AMD Vega Graphics, Platinum Silver Color (Inspiron 3515, D560707WIN9S), 1.8Kg",
+        "average_rating": 3.6,
+        "rating_text": "Good",
+        "cost": "₹37,680 (22% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61YldGHdqCL._SL1080_.jpg"
+    },
+
+    {
+        "model_id" : 7,
+        "model_name" : "Dell",
+        "product_name" : "Dell Inspiron 3501 Intel i3-1005G1",
+        "product_id" : 34,
+        "content" : "Dell Inspiron 3501 Intel i3-1005G1 15.6 inches FHD Anti Glare Display Laptop (4GB / 256 SSD / Integrated Graphics / 1 Yr NBD / Windows 10 + MSO / Accent Black) D560397WIN9BE, 1.96kg",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹39,790 (24% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/51jPUwqQTFL._SL1000_.jpg"
+    },
+
+    {
+        "model_id" : 7,
+        "model_name" : "Dell",
+        "product_name" : "Dell Vostro 3400",
+        "product_id" : 35,
+        "content" : "Dell Vostro 3400 14 Inch. FHD Display Laptop (i5-1135G7 / 8GB / 512GB SSD / Nvidia 2GB MX330 Graphics / Win10 + MSO / Dune Color) D552183WIN9DE",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹60,890 (14% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/51CEknIIHcL._SL1080_.jpg"
+    },
+
+    {
+        "model_id" : 8,
+        "model_name" : "Lenovo",
+        "product_name" : "Lenovo IdeaPad D330",
+        "product_id" : 36,
+        "content" : "Lenovo IdeaPad D330 Intel Celeron N4020 10.1 Inch HD IPS Detachable 2-in-1 Laptop (4GB/128GB eMMC/Windows 10/1 Yr Warranty/Mineral Grey/1.1Kg), 82H0001YIN",
+        "average_rating": 5.0,
+        "rating_text": "Excellent",
+        "cost": "₹24,500 (24% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/51gkDWHPvQL._SL1067_.jpg"
+    },
+
+    {
+        "model_id" : 8,
+        "model_name" : "Lenovo",
+        "product_name" : "Lenovo IdeaPad Flex 5",
+        "product_id" : 37,
+        "content" : "Lenovo IdeaPad Flex 5 11th Gen Intel Core i3 14 FHD 2-in-1 Convertible Laptop (8GB/512GB SDD/Windows 11/Office 2021/Backlit Keyboard/Fingerprint Reader/Graphite Grey/1.5Kg), 82HS015PIN",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹55,990 (30% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61ta6vDkCRL._SL1000_.jpg"
+    },
+
+    {
+        "model_id" : 8,
+        "model_name" : "Lenovo",
+        "product_name" : "Lenovo IdeaPad 3",
+        "product_id" : 38,
+        "content" : "Lenovo IdeaPad 3 Intel Celeron N4020 14'' HD Thin & Light Laptop (4GB/256GB HDD/Windows 11/MS Office 2021/Platinum Grey/1.5Kg), 81WH007KIN",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹29,490 (27% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61s7sJEpsVL._SL1000_.jpg"
+    },
+
+    {
+        "model_id" : 8,
+        "model_name" : "Lenovo",
+        "product_name" : "Lenovo IdeaPad Slim 1",
+        "product_id" : 39,
+        "content" : "Lenovo IdeaPad Slim 1 Intel Celeron N4020 11.6 Inch. (29.46cm) HD Thin & Light Laptop (4GB/256 GB SSD/Windows 10/MS Office/Platinum Grey/1.2Kg), 81VT0071IN",
+        "average_rating": 4.0,
+        "rating_text": "Good",
+        "cost": "₹30,990 (26% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61km1VkaCsL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 8,
+        "model_name" : "Lenovo",
+        "product_name" : "Lenovo IdeaPad Slim 3",
+        "product_id" : 40,
+        "content" : "Lenovo IdeaPad Slim 3 Intel Celeron N4020 14 Inch. (35.36cm) HD Thin & Light Laptop (4GB/256GB SSD/Windows 10/Platinum Grey/1.5Kg), 81WH001NIN",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹30,700 (24% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61s7sJEpsVL._SL1000_.jpg"
+    },
+
+    {
+        "model_id" : 9,
+        "model_name" : "Asus",
+        "product_name" : "ASUS VivoBook 14 (2020)",
+        "product_id" : 41,
+        "content" : "ASUS VivoBook 14 (2020), Intel Core i5-1035G1 10th Gen, 14-inch (35.56 cm) FHD, Thin &Light Laptop (8GB/512GB SSD + 32GB Optane/Office 2019/Windows 10/Integrated Graphics/Silver/1.6 Kg)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹51,490 (20% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71WuDXpTAlL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 9,
+        "model_name" : "Asus",
+        "product_name" : "ASUS VivoBook Flip 14 (2020)",
+        "product_id" : 42,
+        "content" : "ASUS VivoBook Flip 14 (2020), Intel Core i3-10110U 10th Gen, 14 Inch. (35.56cms) FHD Touch, 2-in-1 Laptop (8GB/256GB SSD/Office 2019/Windows 10/Integrated Graphics/Blue/1.5 kg), TP412FA-EC382TS",
+        "average_rating": 4.4,
+        "rating_text": "Very Good",
+        "cost": "₹46,990 (20% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71C-YpFn0zS._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 9,
+        "model_name" : "Asus",
+        "product_name" : "ASUS VivoBook 15 (2021)",
+        "product_id" : 43,
+        "content" : "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹26,990 (21% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71S8U9VzLTL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 9,
+        "model_name" : "Asus",
+        "product_name" : "ASUS ROG Strix G17 (2021)",
+        "product_id" : 44,
+        "content" : "ASUS ROG Strix G17 (2021) 17.3-inch (43.94 cms) FHD 144Hz, AMD Ryzen 7 4800H, GTX 1650 4GB Graphics, Gaming Laptop (8GB/512GB SSD/Windows 10/Gray/2.4 Kg), G713IH-HX020T",
+        "average_rating": 4.5,
+        "rating_text": "Excellent",
+        "cost": "₹77,990 (24% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81Vr3jzftaL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 9,
+        "model_name" : "Asus",
+        "product_name" : "ASUS TUF Gaming F15 (2021)",
+        "product_id" : 45,
+        "content" : "ASUS TUF Gaming F15 (2021) 15.6-inch (39.62 cms) FHD 144Hz, Intel Core i5-11400H 11th Gen, RTX 3050 Ti 4GB Graphics, Gaming Laptop (16GB/512GB SSD/Windows 10/Gray/2.3 Kg)",
+        "average_rating": 4.6,
+        "rating_text": "Excellent",
+        "cost": "₹80,490 (33% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/91aWfctUptL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 10,
+        "model_name" : "Apple",
+        "product_name" : "2020 Apple MacBook Air Laptop",
+        "product_id" : 46,
+        "content" : "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Gold",
+        "average_rating": 4.8,
+        "rating_text": "Excellent",
+        "cost": "₹1,09,490 (7% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71vFKBpKakL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 10,
+        "model_name" : "Apple",
+        "product_name" : "2020 Apple MacBook Air Laptop",
+        "product_id" : 47,
+        "content" : "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+        "average_rating": 4.8,
+        "rating_text": "Very Good",
+        "cost": "₹83,900 (10% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71jG+e7roXL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 10,
+        "model_name" : "Apple",
+        "product_name" : "2020 Apple MacBook Air Laptop",
+        "product_id" : 48,
+        "content" : "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Silver",
+        "average_rating": 4.8,
+        "rating_text": "Excellent",
+        "cost": "₹92,900",
+        "product_img" : "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 10,
+        "model_name" : "Apple",
+        "product_name" : "2020 Apple MacBook Pro",
+        "product_id" : 49,
+        "content" : "2020 Apple MacBook Pro (13.3-inch/33.78 cm, Apple M1 chip with 8‑core CPU and 8‑core GPU, 8GB RAM, 256GB SSD) - Space Grey",
+        "average_rating": 4.7,
+        "rating_text": "Excellent",
+        "cost": "₹1,12,990.00 (8%  off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71an9eiBxpL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 10,
+        "model_name" : "Apple",
+        "product_name" : "2021 Apple MacBook Pro",
+        "product_id" : 50,
+        "content" : "2021 Apple MacBook Pro (14-inch/35.97 cm, Apple M1 Pro chip with 8‑core CPU and 14‑core GPU, 16GB RAM, 512GB SSD) - Space Grey",
+        "average_rating": 4.8,
+        "rating_text": "Excellent",
+        "cost": "₹1,79,990.00 (8% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61vFO3R5UNL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 11,
+        "model_name" : "Sony",
+        "product_name" : "Sony Bravia 80 cm",
+        "product_id" : 51,
+        "content" : "Sony Bravia 80 cm (32 inches) HD Ready Smart LED TV 32W6103 (Black) (2021 Model)",
+        "average_rating": 4.7,
+        "rating_text": "Excellent",
+        "cost": "₹24,990 (16% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/915X01--m2S._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 11,
+        "model_name" : "Sony",
+        "product_name" : "Sony Bravia 108 cm",
+        "product_id" : 52,
+        "content" : "Sony Bravia 108 cm (43 inches) 4K Ultra HD Smart Android LED TV KD-43X74 (Black) (2021 Model) | with Alexa Compatibility",
+        "average_rating": 4.7,
+        "rating_text": "Excellent",
+        "cost": "₹50,990 (24% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81zeKI1IG9L._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 11,
+        "model_name" : "Sony",
+        "product_name" : "Sony Bravia 123 cm",
+        "product_id" : 53,
+        "content" : "Sony Bravia 123 cm (49 inches) 4K Ultra HD Certified Android LED TV 49X8000H (Black) (2020 Model)",
+        "average_rating": 4.6,
+        "rating_text": "Excellent",
+        "cost": "₹64,728 (28% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/91F9nw-LGYL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 11,
+        "model_name" : "Sony",
+        "product_name" : "Sony Bravia 139 cm",
+        "product_id" : 54,
+        "content" : "Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X80AJ (Black) (2021 Model) | with Alexa Compatibility",
+        "average_rating": 4.7,
+        "rating_text": "Excellent",
+        "cost": "₹74,990 (32% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/91Pij5DqU1L._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 11,
+        "model_name" : "Sony",
+        "product_name" : "Sony Bravia 164 cm",
+        "product_id" : 55,
+        "content" : "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X80AJ (Black) (2021 Model) | with Alexa Compatibility",
+        "average_rating": 4.7,
+        "rating_text": "Excellent",
+        "cost": "₹97,990 (46% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81rFvuvqaNL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 12,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung 80 cm",
+        "product_id" : 56,
+        "content" : "Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black) (2021 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹16,990 (26% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/7160TtJzTWL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 12,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung 108 cm",
+        "product_id" : 57,
+        "content" : "Samsung 108 cm (43 inches) Crystal 4K Pro Series Ultra HD Smart LED TV UA43AUE70AKLXL (Black) (2021 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹38,990 (29% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61GwJAhftvS._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 12,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung 125 cm",
+        "product_id" : 58,
+        "content" : "Samsung 125 cm (50 inches) Crystal 4K Pro Series Ultra HD Smart LED TV UA50AUE70AKLXL (Black) (2021 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹49,990 (30% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61GwJAhftvS._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 12,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung 138 cm",
+        "product_id" : 59,
+        "content" : "Samsung 138 cm (55 inches) Crystal 4K Pro Series Ultra HD Smart LED TV UA55AUE70AKLXL (Black) (2021 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹53,990 (30% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81AYaxkhhNS._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 12,
+        "model_name" : "Samsung",
+        "product_name" : "Samsung 146 cm",
+        "product_id" : 60,
+        "content" : "Samsung 146 cm (58 inches) Crystal 4K Pro Series Ultra HD Smart LED TV UA58AUE70AKLXL (Black) (2021 Model)",
+        "average_rating": 4.8,
+        "rating_text": "Excellent",
+        "cost": "₹55,490 (31% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71shPgsCp8S._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 13,
+        "model_name" : "Xiaomi",
+        "product_name" : "Redmi 80 cm",
+        "product_id" : 61,
+        "content" : "Redmi 80 cm (32 inches) HD Ready Smart LED TV | L32M6-RA (Black) (2021 Model) | With Android 11",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹15,999 (36% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71HcZHyEsTL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 13,
+        "model_name" : "Xiaomi",
+        "product_name" : "Mi 108 cm",
+        "product_id" : 62,
+        "content" : "Mi 108 cm (43 inches) Horizon Edition Full HD Android LED TV 4A | L43M6-EI (Black)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹25,999 (4% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71Cf27AHBEL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 13,
+        "model_name" : "Xiaomi",
+        "product_name" : "Mi 125.7 cm",
+        "product_id" : 63,
+        "content" : "Mi 125.7 cm (50 Inches) 4K Ultra HD Android Smart LED TV 4X | L50M5-5AIN (Black)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹37,999 (10% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/612oGaxp3DS._SL1188_.jpg"
+    },
+
+    {
+        "model_id" : 13,
+        "model_name" : "Xiaomi",
+        "product_name" : "Mi 138.8 cm",
+        "product_id" : 64,
+        "content" : "Mi 138.8 cm (55 inches) Q1 Series 4K Ultra HD Smart QLED TV L55M6-EQG (Metallic Grey) (2020 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹59,999",
+        "product_img" : "https://m.media-amazon.com/images/I/71qgxrIJe0L._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 13,
+        "model_name" : "Xiaomi",
+        "product_name" : "Mi 189.34 cm",
+        "product_id" : 65,
+        "content" : "Mi 189.34 cm (75 inches) Q1 Series 4K Ultra HD Smart Android QLED TV L75M6-ESG (Metallic Grey) (2021 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹1,27,999 (36% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71fZOKh0i1L._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 14,
+        "model_name" : "LG",
+        "product_name" : "LG 80 cms",
+        "product_id" : 66,
+        "content" : "LG 80 cms (32 inches) HD Ready Smart LED TV 32LM636BPTB (Dark Iron Gray) (2019 Model)",
+        "average_rating": 4.5,
+        "rating_text": "Excellent",
+        "cost": "₹23,990 (20% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/91zs--uVuzL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 14,
+        "model_name" : "LG",
+        "product_name" : "LG 108 cm",
+        "product_id" : 67,
+        "content" : "LG 108 cm (43 inches) 4K Ultra HD Smart NanoCell TV 43NANO73TPZ (Ashed Blue) (2021 Model)",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹45,999 (34% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71MHePL2iHS._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 14,
+        "model_name" : "LG",
+        "product_name" : "LG 127 cm",
+        "product_id" : 68,
+        "content" : "LG 127 cm (50 inches) 4K Ultra HD Smart LED TV 50UP7500PTZ (Rocky Black) (2021 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹45,999 (29% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81U+uLusacL._SL1500_.jpg"
+    },
+    
+    {
+        "model_id" : 14,
+        "model_name" : "LG",
+        "product_name" : "LG 139 cm",
+        "product_id" : 69,
+        "content" : "LG 139 cm (55 inches) 4K Ultra HD Smart NanoCell TV 55NANO91TNA (Ceramic Black) (2020 Model)",
+        "average_rating": 3.5,
+        "rating_text": "Good",
+        "cost": "₹78,499 (53% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71RgJ4bpoaL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 14,
+        "model_name" : "LG",
+        "product_name" : "LG 165.1 cm",
+        "product_id" : 70,
+        "content" : "LG 165.1 cm (65 inches) 4K Ultra HD Smart LED TV 65UP7720PTY (Light Black) (2021 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹84,990 (35% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/812tbUxSA2L._SL1499_.jpg"
+    },
+
+    {
+        "model_id" : 15,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus 80 cm",
+        "product_id" : 71,
+        "content" : "OnePlus 80 cm (32 inches) Y Series HD Ready Smart Android LED TV 32 Y1S (Black) (2022 Model)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹16,499 (25% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/81iLglMLueL._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 15,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus 108 cm",
+        "product_id" : 72,
+        "content" : "OnePlus 108 cm (43 inches) Y Series Full HD LED Smart Android TV 43Y1 (Black) (2020 Model)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹25,499 (15% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71vZLIfj5yS._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 15,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus 125.7 cm",
+        "product_id" : 73,
+        "content" : "OnePlus 125.7 cm (50 inches) U Series 4K LED Smart Android TV 50U1S (Black) (2021 Model)",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "₹40,999 (18% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71Sdj04A8dS._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 15,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus 138.7 cm",
+        "product_id" : 74,
+        "content" : "OnePlus 138.7 cm (55 inches) U Series 4K LED Smart Android TV 55U1S (Black) (2021 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹45,999 (23% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61eTK1VEP0S._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 15,
+        "model_name" : "OnePlus",
+        "product_name" : "OnePlus 163.8 cm",
+        "product_id" : 75,
+        "content" : "OnePlus 163.8 cm (65 inches) U Series 4K LED Smart Android TV 65U1S (Black) (2021 Model)",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹63,999 (9% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71jv5i4cRKS._SL1500_.jpg"
+    },
+
+    {
+        "model_id" : 16,
+        "model_name" : "Shirt",
+        "product_name" : "Cotton Fullsleeve",
+        "product_id" : 76,
+        "content" : "Men's Premium Cotton Fullsleeve Casual Classic Collar Shirt",
+        "average_rating": 3.9,
+        "rating_text": "Good",
+        "cost": "₹359 (76% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/51qNVTfjX8L._UL1280_.jpg"
+    },
+
+    {
+        "model_id" : 16,
+        "model_name" : "Shirt",
+        "product_name" : "Slim Fit",
+        "product_id" : 77,
+        "content" : "Men's Slim Fit Casual Shirt",
+        "average_rating": 3.7,
+        "rating_text": "Good",
+        "cost": "₹499 (75% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61RqedeafJL._UL1440_.jpg"
+    },
+
+    {
+        "model_id" : 16,
+        "model_name" : "Shirt",
+        "product_name" : "Rayon Cotton",
+        "product_id" : 78,
+        "content" : "Men's Rayon Cotton Lining Digital Printed Stitched Half Sleeve Shirt",
+        "average_rating": 3.0,
+        "rating_text": "Good",
+        "cost": "₹379 (87% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/71wR2K2OQSL._UL1500_.jpg"
+    },
+
+    {
+        "model_id" : 16,
+        "model_name" : "Shirt",
+        "product_name" : "Regular Fit",
+        "product_id" : 79,
+        "content" : "Men's Regular Fit Casual Shirt",
+        "average_rating": 3.8,
+        "rating_text": "Good",
+        "cost": "₹499 (75% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/61QO-J8oXpL._UL1136_.jpg"
+    },
+
+    {
+        "model_id" : 16,
+        "model_name" : "Shirt",
+        "product_name" : "Lycra Blend",
+        "product_id" : 80,
+        "content" : "GLE® Men's Lycra Blend Casual Shirts (Summer Cool, Plain Shirts)",
+        "average_rating": 5.0,
+        "rating_text": "Excellent",
+        "cost": "₹249 (83% off)",
+        "product_img" : "https://m.media-amazon.com/images/I/51Jv6631CaL._UL1400_.jpg"
+    },
+
+    {
+        "model_id" : 17,
+        "model_name" : "T-Shirt",
+        "product_name" : "Round Neck Half Sleelve T-Shirt",
+        "product_id" : 81,
+        "content" : "ADDIZ Polyester Men's Solid Pattern Regular Fit Round Neck Half Sleelve T-Shirt for Gym |Sports | Running | Casual Wear H/H",
+        "average_rating": 3.3,
+        "rating_text": "Good",
+        "cost": "₹184.00 - ₹199.00",
+        "product_img" : "https://m.media-amazon.com/images/I/51lSbxUm5YL._UL1500_.jpg"
+    },
+
+    {
+        "model_id" : 17,
+        "model_name" : "T-Shirt",
+        "product_name" : "Polo Shirt",
+        "product_id" : 82,
+        "content" : "Amazon Brand - Symbol Men's Regular Polo Shirt",
+        "average_rating": 3.9,
+        "rating_text": "Good",
+        "cost": "₹235.00 - ₹329.00",
+        "product_img" : "https://m.media-amazon.com/images/I/81XFhFj9swL._UL1500_.jpg"
+    },
+
+    {
+        "model_id" : 17,
+        "model_name" : "T-Shirt",
+        "product_name" : "Half Sleeve Men's T-Shirt",
+        "product_id" : 83,
+        "content" : "LEOTUDE Regular Fit Half Sleeve Men's T-Shirt",
+        "average_rating": 3.3,
+        "rating_text": "Good",
+        "cost": "₹295.00 - ₹1,200.00",
+        "product_img" : "https://m.media-amazon.com/images/I/81DKTXzkwnL._UL1500_.jpg"
+    },
+
+    {
+        "model_id" : 17,
+        "model_name" : "T-Shirt",
+        "product_name" : "Allen Solly T-Shirt",
+        "product_id" : 84,
+        "content" : "Allen Solly Men's Polo",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": "₹379.00 - ₹640.00",
+        "product_img" : "https://m.media-amazon.com/images/I/31f6DVaOq+L.jpg"
+    },
+
+    {
+        "model_id" : 17,
+        "model_name" : "T-Shirt",
+        "product_name" : "Men's Slim T-Shirt",
+        "product_id" : 85,
+        "content" : "Jack & Jones Men's Slim T-Shirt",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "₹216.00 - ₹669.00",
+        "product_img" : "https://m.media-amazon.com/images/I/81p6OdV8I1L._UL1500_.jpg"
+    },
+
+    {
+        "model_id" : 18,
+        "model_name" : "Jeans",
+        "product_name" : "",
+        "product_id" : 86,
+        "content" : "",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "",
+        "product_img" : ""
+    },
+
+    {
+        "model_id" : 18,
+        "model_name" : "Jeans",
+        "product_name" : "",
+        "product_id" : 87,
+        "content" : "",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "",
+        "product_img" : ""
+    },
+    
+    {
+        "model_id" : 18,
+        "model_name" : "Jeans",
+        "product_name" : "",
+        "product_id" : 88,
+        "content" : "",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "",
+        "product_img" : ""
+    },
+
+    {
+        "model_id" : 18,
+        "model_name" : "Jeans",
+        "product_name" : "",
+        "product_id" : 89,
+        "content" : "",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "",
+        "product_img" : ""
+    },
+
+    {
+        "model_id" : 18,
+        "model_name" : "Jeans",
+        "product_name" : "",
+        "product_id" : 90,
+        "content" : "",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "",
+        "product_img" : ""
+    },
+
+    {
+        "model_id" : 18,
+        "model_name" : "Jeans",
+        "product_name" : "",
+        "product_id" : 91,
+        "content" : "",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": "",
+        "product_img" : ""
+    },
+
+
+]

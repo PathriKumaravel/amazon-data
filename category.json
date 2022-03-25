@@ -1,0 +1,203 @@
+[
+    {
+        "category_id" : 1,
+        "category_name" : "Electronics",
+        "item_id" : 1,
+        "item_name" : "Mobiles"
+    },
+
+    {
+        "category_id" : 1,
+        "category_name" : "Electronics",
+        "item_id" : 2,
+        "item_name" : "Computer's"
+    },
+
+    {
+        "category_id" : 1,
+        "category_name" : "Electronics",
+        "item_id" : 3,
+        "item_name" : "TV"
+    },
+
+    {
+        "category_id" : 2,
+        "category_name" : "Fashion",
+        "item_id" : 4,
+        "item_name" : "Men's Fashion"
+    },
+
+    {
+        "category_id" : 2,
+        "category_name" : "Fashion",
+        "item_id" : 5,
+        "item_name" : "Women's Fashion"
+    },
+
+    {
+        "category_id" : 3,
+        "category_name" : "Home & Kitchen",
+        "item_id" : 6,
+        "item_name" : "Furniture"
+    },
+
+    {
+        "category_id" : 3,
+        "category_name" : "Home & Kitchen",
+        "item_id" : 7,
+        "item_name" : "Home Storage"
+    },
+
+    {
+        "category_id" : 3,
+        "category_name" : "Home & Kitchen",
+        "item_id" : 8,
+        "item_name" : "Bedroom Linnen"
+    },
+
+    {
+        "category_id" : 3,
+        "category_name" : "Home & Kitchen",
+        "item_id" : 9,
+        "item_name" : "Kitchen & Dinning"
+    },
+
+    {
+        "category_id" : 3,
+        "category_name" : "Home & Kitchen",
+        "item_id" : 10,
+        "item_name" : "Kitchen Storage & Containers"
+    },
+    
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 11,
+        "item_name" : "Beauty & Grooming"
+    },
+
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 12,
+        "item_name" : "Luxury Beauty"
+    },
+
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 13,
+        "item_name" : "Make-up"
+    },
+    
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 14,
+        "item_name" : "Health & Personal Care"
+    },
+
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 15,
+        "item_name" : "Household Supplies"
+    },
+
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 16,
+        "item_name" : "Personal Care Appliances"
+    },
+
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 17,
+        "item_name" : "Diet & Nutrition"
+    },
+
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 18,
+        "item_name" : "All Grocery & Gourmet Foods"
+    },
+
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 19,
+        "item_name" : "Coffee,Tea & Beverages"
+    },
+
+    {
+        "category_id" : 4,
+        "category_name" : "Beauty,Health & Grocery",
+        "item_id" : 20,
+        "item_name" : "Snack Foods"
+    },
+    {
+        "category_id" : 5,
+        "category_name" : "Sports & Fitness",
+        "item_id" : 21,
+        "item_name" : "Cricket"
+    },
+
+    {
+        "category_id" : 5,
+        "category_name" : "Sports & Fitness",
+        "item_id" : 22,
+        "item_name" : "Badminton"
+    },
+
+    {
+        "category_id" : 5,
+        "category_name" : "Sports & Fitness",
+        "item_id" : 23,
+        "item_name" : "Football"
+    },
+
+    {
+        "category_id" : 5,
+        "category_name" : "Sports & Fitness",
+        "item_id" : 24,
+        "item_name" : "Camping & Hiking"
+    },
+
+    {
+        "category_id" : 5,
+        "category_name" : "Sports & Fitness",
+        "item_id" : 25,
+        "item_name" : "Fitness Accessories"
+    },
+
+    {
+        "category_id" : 5,
+        "category_name" : "Sports & Fitness",
+        "item_id" : 26,
+        "item_name" : "Yoga"
+    },
+
+    {
+        "category_id" : 6,
+        "category_name" : "Bags & Luggage",
+        "item_id" : 27,
+        "item_name" : "Backpacks"
+    },
+
+    {
+        "category_id" : 6,
+        "category_name" : "Bags & Luggage",
+        "item_id" : 28,
+        "item_name" : "Suitcases & Trolley Bags"
+    },
+
+    {
+        "category_id" : 6,
+        "category_name" : "Bags & Luggage",
+        "item_id" : 29,
+        "item_name" : "Travel Accessories"
+    }
+]
